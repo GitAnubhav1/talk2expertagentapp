@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781020025042",
+    "project_id": "talk2expertpushnotifications",
+    "storage_bucket": "talk2expertpushnotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781020025042:android:2ed98cb4ece1010fb35d0b",
+        "android_client_info": {
+          "package_name": "com.example.talk2expertagentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781020025042-0vn2l4m74dqi23c0i1etetsmegmbtp9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATH8AForkK4lAHYyNTByQ_Y4W4cAV8Rt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781020025042-0vn2l4m74dqi23c0i1etetsmegmbtp9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
